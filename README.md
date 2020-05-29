@@ -1,6 +1,6 @@
 # TPC2-Joana-Rodrigues-Oscar-Castro
 
-Este conjunto de dados é a reunião e soma de vários relativamente aos jogos mais vendidos, desde 1980. Os dados estão organizados por ranking, nome do jogo, a plataforma desse mesmo jogo, o género, o ano em que foi lançado, a empresa que publicou, e o número de vendas de vários locais do mundo. 
+Este conjunto de dados é a reunião e soma de vários dados relativamente aos jogos mais vendidos, desde 1980. Os dados estão organizados por ranking, nome do jogo, a plataforma desse mesmo jogo, o género, o ano em que foi lançado, a empresa que publicou, e o número de vendas de vários locais do mundo. 
 
 Dicionário de Dados:
 
