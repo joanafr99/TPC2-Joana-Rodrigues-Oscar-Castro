@@ -7,3 +7,7 @@ Dicionário de Dados:
 Número: ‘Rank’ ,  ‘Year’ , ‘NA_Sales’ , ‘EU_Sales’ , ‘JP_Sales’ , ‘Other_Sales’ , ‘Globel_Sales’
 
 Texto: ´Name’ , ‘Platform’ , ‘Genre’ , ‘Publisher’ 
+
+Grupo de trabalho:
+Joana Figueiredo Rodrigues
+Óscar Bruno Rodrigues Castro
